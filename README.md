@@ -6,11 +6,11 @@ We introduce a tool named **InsTag** for analyzing supervised fine-tuning (SFT) 
 Through the scope of tags, we sample a 6K subset of open-resourced SFT data to fine-tune LLaMA and LLaMA-2 and the fine-tuned models **TagLM-13B-v1.0** and **TagLM-13B-v2.0** outperform many open-resourced LLMs on MT-Bench. 
 
 <p align="center">
-🤗 <a href="" target="_blank">InsTagger Checkpoint</a> • 👉 <a href="" target="_blank">Online LocalTagger Demo</a> • 📖 <a href="" target="_blank">Paper</a>  <br>
+🤗 <a href="" target="_blank">InsTagger Checkpoint [WIP]</a> • 👉 <a href="" target="_blank">Online LocalTagger Demo [WIP]</a> • 📖 <a href="https://arxiv.org/pdf/2308.07074.pdf" target="_blank">Paper</a>  <br>
 </p>
 
 <p align="center">
-🤖️ <a href="" target="_blank">TagLM-13B-v1.0 Checkpoint</a> 🤖️ <a href="" target="_blank">TagLM-13B-v2.0 Checkpoint</a><br>
+🤖️ <a href="" target="_blank">TagLM-13B-v1.0 Checkpoint [WIP]</a> 🤖️ <a href="" target="_blank">TagLM-13B-v2.0 Checkpoint [WIP]</a><br>
 </p>
 
 
