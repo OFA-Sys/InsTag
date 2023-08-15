@@ -31,7 +31,7 @@ These models outperform open-source models based on considerably larger SFT data
 
 ## News
 
-- - [08/2023] 🔥 We have an online demo of InsTagger hosted by ModelScope. Please refer to the link on the top. Thanks ModelScope!
+- [08/2023] 🔥 We have an online demo of InsTagger hosted by ModelScope. Please refer to the link on the top. Thanks ModelScope!
 
 - [08/2023] 🔥 We released aligned LLMs **TagLM-13B-v1.0** and **TagLM-13B-v2.0** based on LLaMA and LLaMA-2 respectively. Both are fine-tuned on sub-sampled SFT data according to ***InsTag***. Download [v1.0]() and [v2.0](). 
 
