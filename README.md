@@ -25,7 +25,7 @@ Based on this observation, we propose a data selector based on *InsTag* to selec
 These models outperform open-source models based on considerably larger SFT data evaluated by MT-Bench, echoing the importance of query diversity and complexity.
 
 <p align="center" width="100%">
-<a ><img src="assets/main_figure.png" alt="WizardLM" style="width: 80%; min-width: 300px; display: block; margin: auto;"></a>
+<a ><img src="assets/main_figure.png" alt="InsTag" style="width: 80%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
 
