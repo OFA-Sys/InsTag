@@ -6,7 +6,7 @@ We introduce a tool named **InsTag** for analyzing supervised fine-tuning (SFT) 
 Through the scope of tags, we sample a 6K subset of open-resourced SFT data to fine-tune LLaMA and LLaMA-2 and the fine-tuned models **TagLM-13B-v1.0** and **TagLM-13B-v2.0** outperform many open-resourced LLMs on MT-Bench. 
 
 <p align="center">
-🤗 <a href="" target="_blank">InsTagger Checkpoint [WIP]</a> • 👉 <a href="https://www.modelscope.cn/studios/lukeminglkm/instagger_demo/summary" target="_blank">Online LocalTagger Demo</a> • 📖 <a href="https://arxiv.org/pdf/2308.07074.pdf" target="_blank">Paper</a>  <br>
+🤗 <a href="https://huggingface.co/OFA-Sys/InsTagger" target="_blank">InsTagger Checkpoint</a> • 👉 <a href="https://www.modelscope.cn/studios/lukeminglkm/instagger_demo/summary" target="_blank">Online LocalTagger Demo</a> • 📖 <a href="https://arxiv.org/pdf/2308.07074.pdf" target="_blank">Paper</a>  <br>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ These models outperform open-source models based on considerably larger SFT data
 
 - [08/2023] 🔥 We released aligned LLMs **TagLM-13B-v1.0** and **TagLM-13B-v2.0** based on LLaMA and LLaMA-2 respectively. Both are fine-tuned on sub-sampled SFT data according to ***InsTag***. Download [v1.0]() and [v2.0](). 
 
-- [08/2023] 🔥 We released an LLM **InsTagger** fine-tuned on our tagging results for local tagging deployments. Download [weight](). 
+- [08/2023] 🔥 We released an LLM **InsTagger** fine-tuned on our tagging results for local tagging deployments. Download [weight](https://huggingface.co/OFA-Sys/InsTagger). 
 
 - [08/2023] 🔥 We introduced ***InsTag***, our SFT data analysis tool. Check out the [paper](). 
 
@@ -43,6 +43,10 @@ These models outperform open-source models based on considerably larger SFT data
 
 - [Model Checkpoints](#model-checkpoints)
 - [Citation](#citation)
+
+## InsTagger
+
+InsTagger is a LLaMa-2 based SFT model trained with FastChat in the vicuna template. You can easily download weight at [HuggingFace ModelHub](https://huggingface.co/OFA-Sys/InsTagger) and then use [FastChat](https://github.com/lm-sys/FastChat) to serve or inference. Demo codes are about to be released.
 
 ## Model Checkpoints
 
