@@ -10,7 +10,7 @@ Through the scope of tags, we sample a 6K subset of open-resourced SFT data to f
 </p>
 
 <p align="center">
-🤖️ <a href="" target="_blank">TagLM-13B-v1.0 Checkpoint [WIP]</a> 🤖️ <a href="" target="_blank">TagLM-13B-v2.0 Checkpoint [WIP]</a><br>
+🤖️ <a href="https://huggingface.co/OFA-Sys/TagLM-13b-v1.0" target="_blank">TagLM-13B-v1.0 Checkpoint</a> 🤖️ <a href="https://huggingface.co/OFA-Sys/TagLM-13b-v2.0" target="_blank">TagLM-13B-v2.0 Checkpoint</a><br>
 </p>
 
 
@@ -82,7 +82,12 @@ InsTagger is a LLaMa-2 based SFT model trained with FastChat in the vicuna templ
 Please cite our work if you find the repository helpful.
 
 ```
-@article{
-    xxx,
+@misc{lu2023instag,
+      title={#InsTag: Instruction Tagging for Analyzing Supervised Fine-tuning of Large Language Models}, 
+      author={Keming Lu and Hongyi Yuan and Zheng Yuan and Runji Lin and Junyang Lin and Chuanqi Tan and Chang Zhou and Jingren Zhou},
+      year={2023},
+      eprint={2308.07074},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
