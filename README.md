@@ -74,7 +74,7 @@ InsTagger is a LLaMa-2 based SFT model trained with FastChat in the vicuna templ
     | TagLM-13B-v1.0 | 🤗 <a href="" target="_blank">HF Hub Link</a>  |  **6.44**	  | <a href="https://ai.meta.com/resources/models-and-libraries/llama-downloads/" target="_blank">LLaMA License </a> |
     | TagLM-13B-v2.0 | 🤗 <a href="" target="_blank">HF Hub Link</a>  |  **6.55**	  | <a href="https://ai.meta.com/resources/models-and-libraries/llama-downloads/" target="_blank">LLaMA 2 License </a> |
 
-    All models are either based on LLaMA or LLaMA-2 and should be used under their licenses accordingly. All the models are fine-tuned using [FastCaht](https://github.com/lm-sys/FastChat) codebase, and we apply the system template of Vicuna V1.1. 
+    All models are either based on LLaMA or LLaMA-2 and should be used under their licenses accordingly. All the models are fine-tuned using [FastChat](https://github.com/lm-sys/FastChat) codebase, and we apply the system template of Vicuna V1.1. 
 
 
 ## Citation 
